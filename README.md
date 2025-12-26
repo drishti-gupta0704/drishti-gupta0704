@@ -1,16 +1,16 @@
-## Hi there 👋
+##  Hi, I'm Drishti
 
-<!--
-**drishti-gupta0704/drishti-gupta0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech in Artificial Intelligence & Machine Learning  
+💻 Backend Developer | Exploring DevOps  
+☕  Strong foundation in Core Java  
+🚀 Passionate about exploring new technologies and building real-world projects  
+⚡  Goal: Grow as a skilled Software Engineer and work on impactful systems  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with Me -----
+📩 Email : **drishti.gupta070424@gmail.com**
+🔗 LinkedIn : **linkedin.com/in/drishti-gupta-b69a56386/**
+
+
