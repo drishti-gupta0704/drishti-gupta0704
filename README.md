@@ -9,8 +9,8 @@
 ## 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git)
 
-Connect with Me -----
-📩 Email : **drishti.gupta070424@gmail.com**
-🔗 LinkedIn : **linkedin.com/in/drishti-gupta-b69a56386/**
+##  Connect with Me
 
+📩 Email: drishti.gupta070424@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/drishti-gupta-b69a56386/
 
