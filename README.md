@@ -1,6 +1,6 @@
 ##  Hi, I'm Drishti
 
-🎓 BTech in Artificial Intelligence & Machine Learning'27
+🎓 BTech in Artificial Intelligence & Machine Learning'27   
 💻 Backend Developer | Exploring DevOps  
 ☕  Strong foundation in Core Java  
 🚀 Passionate about exploring new technologies and building real-world projects  
