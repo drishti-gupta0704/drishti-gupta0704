@@ -14,3 +14,5 @@
 📩 Email: drishti.gupta070424@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/drishti-gupta-b69a56386/
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Drishti%20Gupta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/drishti-gupta-b69a56386)
+[![Email](https://img.shields.io/badge/Email-drishti.gupta070424@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:drishti.gupta070424@gmail.com)
