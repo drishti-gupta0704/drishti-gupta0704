@@ -13,30 +13,17 @@
 
 📩 Email: drishti.gupta070424@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/drishti-gupta-b69a56386/
-<p>
-  <a href="https://linkedin.com/in/drishti-gupta-b69a56386">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:drishti.gupta070424@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-gupta-b69a56386)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-F6A6B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
-<p>
-  <a href="https://linkedin.com/in/drishti-gupta-b69a56386">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:drishti.gupta070424@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B8FD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-gupta-b69a56386)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-E5738A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
+
 
 
 
