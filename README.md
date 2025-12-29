@@ -8,6 +8,11 @@
 
 ## 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git)
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git"
+  alt="My Skills"
+  style="pointer-events: none;"
+/>
 
 ##  Connect with Me :
 
