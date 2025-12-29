@@ -7,7 +7,6 @@
 ⚡  Goal: Grow as a skilled Software Engineer and work on impactful systems  
 
 ## 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git)
 <img
   src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git"
   alt="My Skills"
