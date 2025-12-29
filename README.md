@@ -1,7 +1,5 @@
 ##  Hi, I'm Drishti
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello!+I+am+Drishti)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=5B8FD9&width=600&lines=Hello!+I+am+Drishti;Backend+Developer;Learning+Node.js+%26+Java)
-
 
 🎓 BTech in Artificial Intelligence & Machine Learning'27    
 💻 Backend Developer | Exploring DevOps  
