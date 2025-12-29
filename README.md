@@ -15,5 +15,6 @@
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D65A73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 
