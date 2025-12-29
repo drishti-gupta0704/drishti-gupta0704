@@ -14,12 +14,12 @@
 📩 Email: drishti.gupta070424@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/drishti-gupta-b69a56386/
 
-<div style="background-color:#0A66C2; padding:15px; border-radius:10px; width:fit-content;">
-  <a href="https://linkedin.com/in/drishti-gupta-b69a56386" target="_blank" style="color:white; text-decoration:none; font-weight:bold; margin-right:15px;">
-    🔗 LinkedIn
+<div style="background:#24292e; padding:15px; border-radius:12px; width:fit-content;">
+  <a href="https://linkedin.com/in/drishti-gupta-b69a56386">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:drishti.gupta070424@gmail.com" style="color:white; text-decoration:none; font-weight:bold;">
-    📩 Email
+  <a href="mailto:drishti.gupta070424@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </div>
 
