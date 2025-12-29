@@ -18,7 +18,7 @@
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-F6A6B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
 
-<p align="center">
+
   <a href="https://linkedin.com/in/drishti-gupta-b69a56386">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -26,4 +26,4 @@
   <a href="mailto:drishti.gupta070424@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+
