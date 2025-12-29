@@ -20,11 +20,9 @@
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-F6A6B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B8FD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-gupta-b69a56386)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3A73C9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-gupta-b69a56386)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-E5738A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D65A73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
 
 
 
