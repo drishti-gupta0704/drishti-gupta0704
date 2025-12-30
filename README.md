@@ -20,14 +20,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:06b6d4&height=3" width="80%"/>
 
 <br>
-
 <p align="center"> Growing, learning, and improving a little more every day </p>
-
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=CrazAr374&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=120&section=footer" width="100%"/>
 
