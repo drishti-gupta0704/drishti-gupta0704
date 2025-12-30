@@ -1,5 +1,4 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello!+I+am+Drishti)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=7AA2E3&width=600&lines=🌱+Growing,+learning,+and+improving+a+little+more+every+day✨)
 
 🎓 BTech in Artificial Intelligence & Machine Learning'27    
 💻 Backend Developer | Exploring DevOps  
@@ -16,6 +15,8 @@
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D65A73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
 
+<p align="center"> Growing, learning, and improving a little more every day </p>
+<img src="https://svgshare.com/i/veZ.svg" alt="wave" width="100%" />
 
 
 
