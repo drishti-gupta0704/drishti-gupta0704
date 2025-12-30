@@ -15,8 +15,24 @@
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D65A73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:06b6d4&height=3" width="80%"/>
+
+<br>
+
 <p align="center"> Growing, learning, and improving a little more every day </p>
-<img src="https://svgshare.com/i/veZ.svg" alt="wave" width="100%" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=CrazAr374&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=120&section=footer" width="100%"/>
+
+</div>
+
 
 
 
