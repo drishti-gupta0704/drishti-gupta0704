@@ -29,7 +29,8 @@
 
 <br>
 <p align="center"> Growing, learning, and improving a little more every day </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
+<img src="https://camo.githubusercontent.com/410eb42bfaf72a072d01f43bd9ee915bb0b0a9c4bd8cd0ceb1bde334f45ceb38/68747470733a2f2f63617073756" width="100%" style="margin-top:-30px;"/>
+
 </div>
 
 
