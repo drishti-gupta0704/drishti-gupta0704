@@ -21,7 +21,7 @@
   &nbsp;drishti.gupta070424@gmail.com
 </a>
 
-
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:06b6d4&height=3" width="100%"/>
 
