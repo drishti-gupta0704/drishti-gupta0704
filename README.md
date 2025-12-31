@@ -25,12 +25,14 @@
 </div>
 
 
-<p align="center">
-  Growing, learning, and improving a little more every day
-</p>
-
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api
+  ?type=waving
+  &color=0:1e3a8a,50:3b82f6,100:06b6d4
+  &height=110
+  &section=footer
+  &text=Growing%2C%20learning%2C%20and%20improving%20every%20day
+  &fontSize=20
+  &fontColor=ffffff"
   width="100%"
-  style="margin-top:-25px;"
 />
