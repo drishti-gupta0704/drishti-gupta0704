@@ -24,6 +24,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 
 
