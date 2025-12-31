@@ -25,15 +25,7 @@
 </div>
 
 
-<img
-  src="https://capsule-render.vercel.app/api
-  ?type=waving
-  &color=0:1e3a8a,50:3b82f6,100:06b6d4
-  &height=120
-  &text=Growing%2C%20learning%2C%20and%20improving%20every%20day
-  &fontSize=22
-  &fontColor=ffffff"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=120&text=Growing%2C%20learning%2C%20and%20improving%20every%20day&fontSize=22&fontColor=ffffff" width="100%"/>
+
 
 
