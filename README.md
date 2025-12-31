@@ -11,15 +11,16 @@
 
 
 ## Connect with Me 
-<a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none; color:white;">
+<a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
-  &nbsp;linkedin.com/in/drishti-gupta-b69a56386
+  &nbsp;<span style="color:white;">linkedin.com/in/drishti-gupta-b69a56386</span>
 </a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="mailto:drishti.gupta070424@gmail.com" style="text-decoration:none; color:white;">
+<a href="mailto:drishti.gupta070424@gmail.com" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/>
-  &nbsp;drishti.gupta070424@gmail.com
+  &nbsp;<span style="color:white;">drishti.gupta070424@gmail.com</span>
 </a>
+
 
 
 <br>
