@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3A73C9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-gupta-b69a56386)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D65A73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
 &nbsp;
 linkedin.com/in/drishti-gupta-b69a56386
@@ -22,6 +23,19 @@ linkedin.com/in/drishti-gupta-b69a56386
 &nbsp;
 drishti.gupta070424@gmail.com
 
+<a href="https://linkedin.com/in/drishti-gupta-b69a56386">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/drishti-gupta-b69a56386">linkedin.com/in/drishti-gupta-b69a56386</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="mailto:drishti.gupta070424@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/>
+</a>
+&nbsp;
+<a href="mailto:drishti.gupta070424@gmail.com">drishti.gupta070424@gmail.com</a>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:06b6d4&height=3" width="100%"/>
