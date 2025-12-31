@@ -24,10 +24,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 </div>
 
-## 🎮 Dev Energy
-![Coffee](https://img.shields.io/badge/Coffee-Driven-brown?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Bug-Slayer-red?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Never_Stops-blue?style=for-the-badge)
 
 
 
