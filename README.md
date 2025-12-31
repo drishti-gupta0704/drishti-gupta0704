@@ -24,13 +24,10 @@
 
 <br>
 <br>
-
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:06b6d4&height=3" width="100%"/>
 
 <br>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=800&color=ffffff&background=00000000&width=600&lines=✨+Growing,+learning,+and+improving+a+little+more+every+day+✨" />
-</p>
 
-<p align="center"> Growing, learning, and improving a little more every day </p>
+<p align="center"> <b>Growing, learning, and improving a little more every day</b>  </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
