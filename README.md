@@ -24,8 +24,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 </div>
 
-<p align="center" style="margin: 0; padding: 0;">
+
+<p align="center">
   Growing, learning, and improving a little more every day
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer"
+  width="100%"
+  style="margin-top:-25px;"
+/>
