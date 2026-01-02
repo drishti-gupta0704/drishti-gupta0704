@@ -31,5 +31,12 @@
 </p>
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlPjezGyGgJ9HFe/giphy.gif" width="20" />
+  <img src="https://media.giphy.com/media/l0HlPjezGyGgJ9HFe/giphy.gif" width="20" />
+  &nbsp;<b>Growing, learning, and improving a little more every day</b>&nbsp;
+  <img src="https://media.giphy.com/media/l0HlPjezGyGgJ9HFe/giphy.gif" width="20" />
+  <img src="https://media.giphy.com/media/l0HlPjezGyGgJ9HFe/giphy.gif" width="20" />
+</p>
 
 
