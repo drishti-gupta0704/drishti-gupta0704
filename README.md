@@ -21,3 +21,7 @@
 
 <p align="center"> <b>Growing, learning, and improving a little more every day</b>  </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=🎓+BTech+in+AI+%26+ML+'27;💻+Backend+Developer+%7C+Exploring+DevOps;☕+Strong+Foundation+in+Core+Java;🚀+Building+Real-World+Projects;⚡+Aspiring+Software+Engineer)](https://git.io/typing-svg)
