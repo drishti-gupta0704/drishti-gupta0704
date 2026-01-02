@@ -1,4 +1,3 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Drishti+!)
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=06B6D4&width=500&lines=Hello+,+I+am+Drishti+!)
 
 
