@@ -24,4 +24,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=🎓+BTech+in+AI+%26+ML+'27;💻+Backend+Developer+%7C+Exploring+DevOps;☕+Strong+Foundation+in+Core+Java;🚀+Building+Real-World+Projects;⚡+Aspiring+Software+Engineer)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="20"/> BTech in Artificial Intelligence & Machine Learning'27  
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20"/> Backend Developer | Exploring DevOps  
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="20"/> Strong foundation in Core Java  
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="20"/> Passionate about building real-world projects  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20"/> Goal: Grow as a Software Engineer
