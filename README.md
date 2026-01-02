@@ -22,10 +22,9 @@
 <p align="center"> <b>Growing, learning, and improving a little more every day</b>  </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&center=true&vCenter=true&width=500&height=100&lines=I'm+Chinmay+Sonawane;Software+Developer+%7C+Tech+Explorer;2x+Hackathon+Winner+%7C+Open+Source;Writing+about+Linux+and+FOSS;Always+Learning%2C+Always+Building;Let's+Build+Something+Cool!;%40chinmay29hub">
+</p>
 
 
-<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="20"/> BTech in Artificial Intelligence & Machine Learning'27  
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20"/> Backend Developer | Exploring DevOps  
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="20"/> Strong foundation in Core Java  
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="20"/> Passionate about building real-world projects  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20"/> Goal: Grow as a Software Engineer
+
