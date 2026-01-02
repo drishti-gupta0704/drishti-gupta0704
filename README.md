@@ -23,8 +23,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=200&center=true&vCenter=true&width=500&height=100&lines=I'm+Chinmay+Sonawane;Software+Developer+%7C+Tech+Explorer;2x+Hackathon+Winner+%7C+Open+Source;Writing+about+Linux+and+FOSS;Always+Learning%2C+Always+Building;Let's+Build+Something+Cool!;%40chinmay29hub">
+<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
 </p>
-
 
 
