@@ -24,15 +24,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 
 
-<a href="https://linkedin.com/in/drishti-gupta-b69a56386" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" /> 
-  &nbsp;
-  <img src="https://img.shields.io/badge/-linkedin.com%2Fin%2Fdrishti--gupta--b69a56386-06B6D4?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:drishti.gupta070424@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" /> 
-  &nbsp;
-  <img src="https://img.shields.io/badge/-drishti.gupta070424@gmail.com-06B6D4?style=for-the-badge&logoColor=white" />
-</a>
+
 
