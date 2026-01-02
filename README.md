@@ -26,8 +26,10 @@
 
 <img align="right"
      src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif"
-     width="270"
-     height="270" />
+     width="240"
+     height="240" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Drishti+!" />
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=E5738A&width=420&lines=Hello+,+I+am+Drishti+!" />
+</p>
 
