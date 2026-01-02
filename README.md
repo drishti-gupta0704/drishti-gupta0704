@@ -24,12 +24,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 
 
-<a href="https://linkedin.com/in/drishti-gupta-b69a56386">
-  <img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fdrishti--gupta--b69a56386-06B6D4?style=flat&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/drishti-gupta-b69a56386" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Drishti%20Gupta-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:drishti.gupta070424@gmail.com">
-  <img src="https://img.shields.io/badge/Email-drishti.gupta070424@gmail.com-06B6D4?style=flat&logo=gmail&logoColor=white"/>
+<a href="mailto:drishti.gupta070424@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-drishti.gupta070424@gmail.com-7DD3FC?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
