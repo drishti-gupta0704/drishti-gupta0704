@@ -1,4 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Drishti+!)
+ <p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 🎓 BTech in Artificial Intelligence & Machine Learning'27    
 💻 Backend Developer | Exploring DevOps  
@@ -23,7 +25,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Drishti+!) <p align='center'>
+ <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 
