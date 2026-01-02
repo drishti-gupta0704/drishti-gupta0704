@@ -22,21 +22,22 @@
 <p align="center"> <b>Growing, learning, and improving a little more every day</b>  </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 
-
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
+
 <td>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Drishti+!" />
+
+</td>
+
+<td align="right">
 
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" 
      width="270" height="270"/>
 
 </td>
 
-<td align="right">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=E5738A&width=500&lines=Hello+,+I+am+Drishti+!" />
-
-</td>
 </tr>
 </table>
 
