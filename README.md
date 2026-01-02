@@ -24,11 +24,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20" />
-  &nbsp;<b>Growing, learning, and improving a little more every day</b>&nbsp;
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="20" />
-</p>
 
 
 <p align="center">
