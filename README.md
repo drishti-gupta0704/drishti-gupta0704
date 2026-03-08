@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> &nbsp;drishti.gupta070424@gmail.com 
 </a> &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://leetcode.com/u/drishti_gupta0704/" style="text-decoration:none; color:inherit;"> 
-  <img src="https://skillicons.dev/icons?i=leetcode" width="18"/> &nbsp;LeetCode
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="18"/> &nbsp;LeetCode
 </a>
 <br>
 <br>
