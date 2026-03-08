@@ -12,10 +12,10 @@
 
 
 ## Connect with Me 
-<a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none; color:inherit;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="21"/> &nbsp;linkedin.com/in/drishti-gupta-b69a56386 </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="mailto:drishti.gupta070424@gmail.com" style="text-decoration:none; color:inherit;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> &nbsp;drishti.gupta070424@gmail.com </a>
+<a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none; color:inherit;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> &nbsp;linkedin.com/in/drishti-gupta-b69a56386 </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="mailto:drishti.gupta070424@gmail.com" style="text-decoration:none; color:inherit;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> &nbsp;drishti.gupta070424@gmail.com </a>
 
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="18"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/> |
 |----------|-------|----------|
 | [https://linkedin.com/in/drishti-gupta-b69a56386](https://linkedin.com/in/drishti-gupta-b69a56386) | [drishti.gupta070424@gmail.com](mailto:drishti.gupta070424@gmail.com) | [https://leetcode.com/u/drishti_gupta0704/](https://leetcode.com/u/drishti_gupta0704/) |
 
