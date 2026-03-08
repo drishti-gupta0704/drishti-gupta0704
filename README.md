@@ -13,7 +13,7 @@
 ## Connect with Me
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/> |
 |----------|-------|----------|
-| [https://linkedin.com/in/drishti-gupta-b69a56386](https://linkedin.com/in/drishti-gupta-b69a56386) | [drishti.gupta070424@gmail.com](mailto:drishti.gupta070424@gmail.com) | [drishti_gupta0704](https://leetcode.com/u/drishti_gupta0704/) |
+| [linkedin.com/in/drishti-gupta-b69a56386](https://linkedin.com/in/drishti-gupta-b69a56386) | [drishti.gupta070424@gmail.com](mailto:drishti.gupta070424@gmail.com) | [drishti_gupta0704](https://leetcode.com/u/drishti_gupta0704/) |
 
 <br>
 <br>
