@@ -17,7 +17,7 @@
 
 | LinkedIn | Email | LeetCode |
 |----------|-------|----------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Drishti-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-gupta-b69a56386) | [![Email](https://img.shields.io/badge/Email-drishitg@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-drishti_gupta0704-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/drishti_gupta0704/) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Flinkedin.com%2Fin%2Fdrishti-gupta-b69a56386-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-gupta-b69a56386) | [![Email](https://img.shields.io/badge/Email-drishti.gupta070424%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-drishti_gupta0704-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/drishti_gupta0704/) |
 
 <br>
 <br>
