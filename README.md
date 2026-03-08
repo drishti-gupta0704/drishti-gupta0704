@@ -13,6 +13,19 @@
 
 ## Connect with Me 
 <a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none; color:inherit;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> &nbsp;linkedin.com/in/drishti-gupta-b69a56386 </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="mailto:drishti.gupta070424@gmail.com" style="text-decoration:none; color:inherit;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> &nbsp;drishti.gupta070424@gmail.com </a>
+
+
+
+## Connect with Me 
+<a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none; color:inherit;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> &nbsp;linkedin.com/in/drishti-gupta-b69a56386 
+</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+<a href="mailto:drishti.gupta070424@gmail.com" style="text-decoration:none; color:inherit;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> &nbsp;drishti.gupta070424@gmail.com 
+</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://leetcode.com/u/drishti_gupta0704/" style="text-decoration:none; color:inherit;"> 
+  <img src="https://skillicons.dev/icons?i=leetcode" width="18"/> &nbsp;LeetCode
+</a>
 <br>
 <br>
 
@@ -22,6 +35,8 @@
 
 <p align="center"> <b>Growing, learning, and improving a little more every day</b>  </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%"/>
+
+
 
 
 
