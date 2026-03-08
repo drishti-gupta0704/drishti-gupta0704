@@ -15,9 +15,9 @@
 <a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none; color:inherit;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> &nbsp;linkedin.com/in/drishti-gupta-b69a56386 </a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="mailto:drishti.gupta070424@gmail.com" style="text-decoration:none; color:inherit;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> &nbsp;drishti.gupta070424@gmail.com </a>
 
 
-| LinkedIn | Email | LeetCode |
+| ![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg) | ![Email](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg) | ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) |
 |----------|-------|----------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Drishti-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-gupta-b69a56386) <br> [https://linkedin.com/in/drishti-gupta-b69a56386](https://linkedin.com/in/drishti-gupta-b69a56386) | [![Email](https://img.shields.io/badge/Email-drishti.gupta070424-red?style=flat-square&logo=gmail&logoColor=white)](mailto:drishti.gupta070424@gmail.com) <br> [drishti.gupta070424@gmail.com](mailto:drishti.gupta070424@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-drishti_gupta0704-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/drishti_gupta0704/) <br> [https://leetcode.com/u/drishti_gupta0704/](https://leetcode.com/u/drishti_gupta0704/) |
+| [https://linkedin.com/in/drishti-gupta-b69a56386](https://linkedin.com/in/drishti-gupta-b69a56386) | [drishti.gupta070424@gmail.com](mailto:drishti.gupta070424@gmail.com) | [https://leetcode.com/u/drishti_gupta0704/](https://leetcode.com/u/drishti_gupta0704/) |
 
 <br>
 <br>
