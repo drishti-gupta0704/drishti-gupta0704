@@ -4,7 +4,7 @@
 ➜  Backend Developer | Exploring DevOps <br>
 ➜  Strong foundation in Core Java <br>
 ➜  Building real-world projects <br>
-➜  Aspiring Software Engineer 
+➜  Aspiring Software Engineer <br>
 
 
 
