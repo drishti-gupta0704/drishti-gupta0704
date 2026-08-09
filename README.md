@@ -5,7 +5,7 @@
 ╰┈➤  Backend Developer | Exploring DevOps<br>
 ╰┈➤  Strong foundation in Core Java<br>
 ╰┈➤  Building real-world projects<br>
-➤ Aspiring Software Engineer
+╰┈➤  Aspiring Software Engineer
 
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git)
