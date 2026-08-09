@@ -1,11 +1,11 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=06B6D4&width=500&lines=Hello+,+I+am+Drishti+!)
 
 
-🎓 BTech in Artificial Intelligence & Machine Learning'27    
-💻 Backend Developer | Exploring DevOps  
-☕  Strong foundation in Core Java  
-🚀 Passionate about exploring new technologies and building real-world projects  
-⚡  Goal: Grow as a skilled Software Engineer and work on impactful systems  
+╰┈➤ 🎓 BTech in Artificial Intelligence & Machine Learning '27
+╰┈➤ 💻 Backend Developer | Exploring DevOps
+╰┈➤ ☕ Strong foundation in Core Java
+╰┈➤ 🚀 Building real-world projects
+╰┈➤ ⚡ Aspiring Software Engineer
 
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git)
