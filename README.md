@@ -10,7 +10,8 @@
 
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git)
+## Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,java,aws,postman,git)
 
 ## Connect with Me
 
