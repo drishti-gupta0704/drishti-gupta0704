@@ -12,8 +12,6 @@
 
 ## Connect with Me
 
-## Connect with Me
-
 <a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none; color:inherit;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> &nbsp;linkedin.com/in/drishti-gupta-b69a56386
 </a>
