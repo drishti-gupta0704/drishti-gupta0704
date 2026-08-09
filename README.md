@@ -2,7 +2,9 @@
 
 
 ╰┈➤ 🎓 BTech in Artificial Intelligence & Machine Learning '27
+
 ╰┈➤ 💻 Backend Developer | Exploring DevOps
+
 ╰┈➤ ☕ Strong foundation in Core Java
 ╰┈➤ 🚀 Building real-world projects
 ╰┈➤ ⚡ Aspiring Software Engineer
