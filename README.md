@@ -12,6 +12,7 @@
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,java,aws,postman,git)
 
+<br>
 ## Connect with Me
 
 <a href="https://linkedin.com/in/drishti-gupta-b69a56386" style="text-decoration:none; color:inherit;">
