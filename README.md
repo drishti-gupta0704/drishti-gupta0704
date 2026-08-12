@@ -1,6 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=06B6D4&width=500&lines=Hello+,+I+am+Drishti+!)
 
-➜  BTech in Artificial Intelligence & Machine Learning '27 <br>
+➜  BTech in CSE(AI ML)'27 <br>
 ➜  Backend Developer | Exploring DevOps <br>
 ➜  Strong foundation in Core Java <br>
 ➜  Building real-world projects <br>
